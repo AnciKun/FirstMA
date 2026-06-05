@@ -1,10 +1,7 @@
 body{
     font-family: Impact, fantasy;
     margin: 0;
-    /* background-color: rgb(5, 1, 56); */
-    background-image: linear-gradient(to right, rgb(2, 0, 36) 15%, rgba(0, 0, 0, 0) 70%), url(images/Ahri.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #002A32;
     min-height: 100vh;
 }
 .navigation_bar{
